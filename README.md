@@ -110,5 +110,7 @@ nam out.nam
 
 ## 📝 License
 
-This lab work is shared for educational purposes.
+This lab work is shared for educational purposes.  
+This project is licensed under the [MIT License](./LICENSE).
+
 
